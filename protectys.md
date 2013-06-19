@@ -1,3 +1,6 @@
+[title: Simple Things to Protect Yourself from the Shaytaan - muhammadtim.com]:/
+[menu: Protect Yourself]:/
+
 #Simple Things to Protect Yourself from the Shaytaan
 
 بسم الله الرحمن الرحيم

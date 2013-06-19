@@ -1,7 +1,10 @@
+[title: Muhammad Tim Humble - muhammadtim.com]:/
+[menu: Home]:/
+
 muhammadtim
 ===========
 
-[muhammadtim.com](http://muhammadtim.com/ "muhammadtim.com") - coming soon in shaa' Allāh!
+[muhammadtim.com](http://www.muhammadtim.com/ "muhammadtim.com") - coming soon in shaa' Allāh!
 
 For the time being, you can access the following articles:
 

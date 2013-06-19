@@ -1,3 +1,6 @@
+[title: A Response to Those Who Defend Ta'weez - muhammadtim.com]:/
+[menu: Ta'weez Response]:/
+
 #A Response to Those Who Defend Ta'weez
 
 *In the name of Allah, The Most Merciful, The Bestower of Mercy*
