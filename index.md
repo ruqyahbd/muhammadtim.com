@@ -13,3 +13,5 @@ For the time being, you can access the following articles:
 * [Simple Things to Protect Yourself from the Shaytaan](/protectys)
 
 * [A Response to Those Who Defend Ta'weez](/taweez)
+
+You can also [contact me](/contact).
