@@ -1,0 +1,41 @@
+[title: Closing Windows and Doors at Night - muhammadtim.com]:/
+[menu: At Night]:/
+
+#Closing Windows and Doors at Night
+
+With the summer heat building, a lot of people ask about opening the window at night - is it allowed Islamically or not? There are two partial answers in English available on [IslamQA](http://www.islamqa.info):
+
+1. [Is it recommended to close the house doors at night?](http://islamqa.com/en/ref/127141)
+2. [When the wings of the night spread, keep your children indoors](http://islamqa.com/en/ref/125922)
+
+However, there is a third answer on the site which is only currently available in Arabic, and which provides a better answer to the specific question of keeping the window open at night. What follows is a translation of that answer...
+
+---
+
+**Question:** We have heard that we must close the doors and windows at sunset, so that the jinn and the devils do not enter; does this mean that they must stay closed for the whole of the night, or only at sunset? If only at sunset, then exactly how long should they remain closed for?
+
+**Answer:** All praise is for Allah. 
+
+It was narrated from Jabir ibn ‘Abdullah (may Allah be pleased with him) that the Prophet (may the peace and blessings of Allah be upon him) said: 
+
+> "In the first part of the night – or when evening comes – keep your children in, for the devils come out at that time. Then when part of the night has passed, let them go. And close the doors and mention the name of Allah, for the shaytaan does not open a closed door. And tie up your waterskins and mention the name of Allah, and cover your vessels and mention the name of Allah, even if you only put something over them, and extinguish your lamps." [al-Bukhari narrated it, no. 3280, and this is his wording, as did Muslim, no. 2012].
+
+In another wording reported by al-Bukhari [no. 5624]:
+
+> "Put out your lamps when you go to sleep, close the doors, tie up your drinking vessels, and cover your food and drink."
+
+In the wording reported by Ahmad [no. 14747]:
+
+> "Cover your containers, tie up your drinking vessels, close the door, and put out your lamps when you sleep, for it may be that a mouse pulls at the wick and burns down the house, and keep your children in when evening comes, for the jinn spread out and snatch."
+
+Also narrated by Ahmad [no. 14597]:
+
+> "Close the doors at night, put out the lamps, tie up the drinking vessels, and cover food and drink, even if you only put a stick over them."
+
+These hadeeth, along with those of similar meaning, are evidence for two things:
+
+Firstly, ***more translation still to come, in shaa' Allah***
+
+
+
+
