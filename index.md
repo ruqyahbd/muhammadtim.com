@@ -16,7 +16,7 @@ For the time being, you can access the following articles:
 
 * [Closing Windows and Doors at Night](/atnight)
 
-* [An Advice to Those Suffering from Sickness and Black Magic](/anadvice)
+* An Advice to Those Suffering from Sickness and Black Magic (coming soon, [preview here](http://beta.muhammadtim.com/anadvice))
 
 
 There's also a selection of [video lectures](/video), and you can [contact me](/contact).
