@@ -1,5 +1,4 @@
 [title: Advice Part Six: The Prayer - muhammadtim.com]:/
-[menu: Advice (6): The Prayer]:/
 [path: /advice/6]:/
 [alias: /articles/advice/6]:/
 

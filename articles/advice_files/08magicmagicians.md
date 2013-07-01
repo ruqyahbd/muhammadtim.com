@@ -1,5 +1,4 @@
 [title: Advice Part Eight: Magic & Magicians - muhammadtim.com]:/
-[menu: Advice (8): Magic & Magicians]:/
 [path: /advice/8]:/
 [alias: /articles/advice/8]:/
 

@@ -1,5 +1,4 @@
 [title: Advice Part Five: Reliance and Medicine - muhammadtim.com]:/
-[menu: Advice (5): Reliance and Medicine]:/
 [path: /advice/5]:/
 [alias: /articles/advice/5]:/
 
