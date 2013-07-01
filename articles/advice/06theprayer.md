@@ -1,0 +1,23 @@
+[title: Advice Part Six: The Prayer - muhammadtim.com]:/
+[menu: Advice (6): The Prayer]:/
+[path: /advice/6]:/
+[alias: /articles/advice/6]:/
+
+#An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
+
+##Part Six: The Prayer
+<br/>
+
+Before going any further, it is important to mention the issue of the prayer. The Messenger of Allāh – may the peace and blessings of Allāh be upon him – said, *"The difference between us and them is the prayer; whoever leaves it has disbelieved."* He also said, *"between a person and between shirk and kufr is leaving the prayer."* The scholars of Islām are in agreement in two things regarding leaving the prayer; that the person who leaves it, believing that they do not have to pray, or seeing themselves above prayer is a complete disbeliever, and that the person who leaves it out of laziness or weakness of faith has committed an act of disbelief. In these two points there is no doubt and no disagreement. The disagreement is only about whether that act of disbelief from the lazy person takes the person outside of Islām or not. *Ahl-us-Sunnah* are agreed that not every action of disbelief takes a person outside of Islām, just as they are agreed that a general statement ‘whoever does such-and-such is a disbeliever’ does not mean that we single out a certain person who does that action and call them a disbeliever.
+As for the ruling of the person who leaves the prayer from laziness, the opinion which is apparent from a large number of the companions – may Allāh be pleased with them all – is that the person is outside of the religion of Islām. This was the opinion of Imām Ahmad (in one narration of his) – may Allāh have mercy on him – and its proof is strong. Even those who said that the person remains a Muslim, the majority of them are of the opinion that the person is to be killed by the Muslim ruler. The point of all of this is that the person who leaves the prayer is in the most dangerous situation – if he is not a disbeliever (which appears to be the strongest opinion) then he is the closest of the people to them. Look at what the Messenger of Allāh (peace and blessings be upon him) said about the person who just misses ‘Asr prayer, *"It is as if he lost his family and his wealth."* Imagine a person who comes home to find his house burned
+down and his family dead – it’s almost impossible to imagine what someone like that would be going through. Yet the one who misses the ‘Asr prayer is in a worse situation than him!
+The purpose of mentioning all of this is that the Muslim remains strong upon the prayer, even in the worst of situations. There is no doubt that the person who understands the ruling of leaving the prayer is more likely to remain strong upon it – in shā' Allāh – until Allāh sends the Angel of Death to take his soul. As well as knowing the punishment, we should know the huge reward of the one who remains strong upon the prayer. The one who prays is in a constant state of awareness of his Lord – and there is no doubt that the prayer protects a person from all kinds of harm – both spiritual and physical. Allāh The Exalted said:
+>**"Indeed, prayer prohibits immorality and wrongdoing"** 
+Rhe Messenger of Allāh – may the peace and blessings of Allāh be upon him – said:
+>*"Whoever prays fajr with the jamā’ah [i.e. in the Mosque], he is under the protection of Allāh until the evening."*
+He also said:
+>*"If they knew what [reward] was in the fajr and ishā prayer [in jamā’ah – praying in a group in the Mosque], they would come even if they had to crawl."* 
+One of the companions narrated that a sick man would "come dragging his feet between two people" just to share in this reward – even though there is no doubt that it is not obligatory for him to attend the masjid if he is so sick that he can’t walk. From these ahādith and others we can see some of the reasons why the sick person is not excused from the prayer for any reason at all – even if their body is paralysed and they can only pray with their eyelids they must do so. As for praying in jamā’ah, this only applies to the men and it is better for a Muslim woman to pray in her house – and even better for her to pray in a certain place in her own room, even though she should not be prevented from going to the masjid. The Messenger of Allāh – may the peace and blessings of Allāh be upon him – said:
+>*"Do not prevent the female servants of Allāh from going to the mosques of Allāh, but their houses are better for them".*
+
+<p style="text-align:center">[Continue Reading](/advice/7), [Go Back](/advice/5), or [View the Contents Page](/advice)

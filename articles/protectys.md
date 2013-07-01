@@ -1,5 +1,7 @@
 [title: Simple Things to Protect Yourself from the Shaytaan - muhammadtim.com]:/
 [menu: Protect Yourself]:/
+[path: /protectys]:/
+[alias: /articles/protectys]:/
 
 #Simple Things to Protect Yourself from the Shaytaan
 

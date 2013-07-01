@@ -1,5 +1,7 @@
 [title: A Response to Those Who Defend Ta'weez - muhammadtim.com]:/
 [menu: Ta'weez Response]:/
+[path: /taweez]:/
+[alias: /articles/taweez]:/
 
 #A Response to Those Who Defend Ta'weez
 

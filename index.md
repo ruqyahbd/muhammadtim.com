@@ -1,8 +1,8 @@
 [title: Muhammad Tim Humble - muhammadtim.com]:/
 [menu: Home]:/
+[order: 1]:/
 
-muhammadtim
-===========
+#Muhammad Tim Humble - muhammadtim.com
 
 [muhammadtim.com](http://www.muhammadtim.com/ "muhammadtim.com") - coming soon in shaa' Allāh!
 
@@ -16,4 +16,7 @@ For the time being, you can access the following articles:
 
 * [Closing Windows and Doors at Night](/atnight)
 
-You can also [contact me](/contact).
+* [An Advice to Those Suffering from Sickness and Black Magic](/advice)
+
+
+There's also a selection of [video lectures](/video), and you can [contact me](/contact).
