@@ -1,4 +1,5 @@
 [title: Advice Part Four: Du'a & Its Etiquettes - muhammadtim.com]:/
+[menu-locgroup:advice]:/
 [path: /advice/4]:/
 [alias: /articles/advice/4]:/
 

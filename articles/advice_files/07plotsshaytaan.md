@@ -1,4 +1,5 @@
 [title: Advice Part Seven: The Plots of the Shaytān - muhammadtim.com]:/
+[menu-locgroup:advice]:/
 [path: /advice/7]:/
 [alias: /articles/advice/7]:/
 

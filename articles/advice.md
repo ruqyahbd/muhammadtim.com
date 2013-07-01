@@ -1,6 +1,7 @@
 [title: Advice Regarding Sickness and Difficulty - muhammadtim.com]:/
 [menu: Advice]:/
-[path: /advice]:/
+[path: /anadvice]:/
+[alias: /advice]:/
 [alias: /articles/advice]:/
 
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
