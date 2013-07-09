@@ -6,6 +6,8 @@
 
 #7 Day Ruqyah Detox Programme - Shaykh 'Adil ibn Tahir al-Muqbil
 
+**NOTE FOR RAMADAN: There's no reason why you can't implement this programme in Ramadan, simply drink the mixture at maghirb, after taraaweeh, and before fajr, or as close as you can.**
+
 
 سم الله الرحمن الرحيم
 
