@@ -1,5 +1,6 @@
 [title: Muhammad Tim Humble - muhammadtim.com]:/
 [menu: Home]:/
+[menu-locgroup: primary]:/
 [order: 1]:/
 
 #Muhammad Tim Humble - muhammadtim.com
@@ -16,8 +17,11 @@ For the time being, you can access the following articles:
 
 * [Closing Windows and Doors at Night](/atnight)
 
-* An Advice to Those Suffering from Sickness and Black Magic (coming soon, [preview here](http://beta.muhammadtim.com/anadvice))
-* Information for Ruqyah Patients (coming soon, [preview here](http://beta.muhammadtim.com/ruqyah))
+* [An Advice to Those Suffering from Sickness and Black Magic](/anadvice)
+
+* [Information for Ruqyah Patients](/ruqyah)
+
+* [How and How Not to Type Islamic Phrases on Mobile Phones](/shortcuts)
 
 
 
