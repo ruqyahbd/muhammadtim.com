@@ -2,6 +2,8 @@
 [menu: Waswasah]:/
 [menu-locgroup: ruqyah]:/
 [order: 10]:/
+[path: /waswasah]:/
+[alias: /articles/waswasah]:/
 
 #Dealing with Waswasah
 
