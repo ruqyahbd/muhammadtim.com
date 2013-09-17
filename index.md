@@ -21,6 +21,8 @@ For the time being, you can access the following articles:
 
 * [Information for Ruqyah Patients](/ruqyah)
 
+* [Dealing with Waswasah](/waswasah)
+
 * [How and How Not to Type Islamic Phrases on Mobile Phones](/shortcuts)
 
 
