@@ -5,9 +5,13 @@
 
 #Muhammad Tim Humble - muhammadtim.com
 
-[muhammadtim.com](http://www.muhammadtim.com/ "muhammadtim.com") - coming soon in shaa' Allāh!
+Assalāmu 'alaykum warahmatullāhi wa barakātuhu…
 
-For the time being, you can access the following articles:
+At some time in the future, there's a plan to develop this into a proper site. For the time being, it's more important to get the content out there than for it to look good.
+
+I've recently added a [blog](/blog) to the site, mostly to allow me to post things quickly via email. Those posts that I think are particularly important will in shā' Allāh be moved to the artciles section. 
+
+For the time being, in addition to the [blog](/blog) you can access the following articles:
 
 * [7 Day Ruqyah Detox Programme - Shaykh 'Adil ibn Tahir al-Muqbil](/7dayrd)
 
