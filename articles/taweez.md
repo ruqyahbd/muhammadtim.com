@@ -3,6 +3,7 @@
 [menu-locgroup: ruqyah]:/
 [path: /taweez]:/
 [alias: /articles/taweez]:/
+[order: 9]:/
 
 #A Response to Those Who Defend Ta'weez
 
