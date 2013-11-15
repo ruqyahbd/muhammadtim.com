@@ -1,7 +1,7 @@
 [title: Ruqyah Programme for Patients - muhammadtim.com]:/
 [menu: Ruqyah Programme]:/
 [menu-locgroup: ruqyah]:/
-[order: 6]:/
+[order: 2]:/
 
 #Ruqyah Programme for Patients
 

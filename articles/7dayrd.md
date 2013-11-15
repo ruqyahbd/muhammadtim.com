@@ -3,7 +3,7 @@
 [path: /7dayrd]:/
 [menu-locgroup: ruqyah]:/
 [alias: /articles/7dayrd]:/
-[order: 2]:/
+[order: 3]:/
 
 #7 Day Ruqyah Detox Programme - Shaykh 'Adil ibn Tahir al-Muqbil
 

@@ -2,6 +2,7 @@
 [menu: Blog]:/
 [menu-locgroup: primary]:/
 [order: 5]:/
+[path: /blog]:/
 
 #Blog Posts
 

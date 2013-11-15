@@ -3,7 +3,7 @@
 [menu-locgroup: ruqyah]:/
 [path: /protectys]:/
 [alias: /articles/protectys]:/
-[order: 3]:/
+[order: 4]:/
 
 #Simple Things to Protect Yourself from the Shaytaan
 
