@@ -35,9 +35,9 @@ Based on this, we're going to make the following changes to our previous setup, 
 
 * We hope and pray that those people who help in the treatment of a friend or family member will go on to help other people, and that some will take on this role for the sake of Allāh permanently.
 
-For those who accept these conditions, and wish to attend the clinic, with their nominated helper, we offer the following advice:
+<a id="whattodo" name="whattodo" style="color: inherit; text-decoration: inherit;">For</a> those who accept these conditions, and wish to attend the clinic, with their nominated helper, we offer the following advice:
 
-* <a id="whattodo" name="whattodo" style="color: inherit; text-decoration: inherit;">Prepare</a> yourself by repenting to Allāh and purifying your heart. [This advice may help](/advice).
+* Prepare yourself by repenting to Allāh and purifying your heart. [This advice may help](/advice).
 * Stick to your regular [adhkaar](/protectys).
 * Follow the [7 day ruqyah programme](/7dayrd), and repeat it if necessary.
 * Try to recite the Qur'an yourself, especially [al-Faatihah](http://quran.com/1), [al-Baqarah](http://quran.com/2), [Aayat-ul-Kursi](http://quran.com/2/255), [the last two aayaat from al-Baqarah](http://quran.com/2/285-286), [al-Ikhlaas](http://quran.com/112), [al-Falaq](http://quran.com/113), and [an-Naas](http://quran.com/114). Blow into your hands and wipe over yourself, if you are able.
