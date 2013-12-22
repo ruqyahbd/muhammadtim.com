@@ -35,10 +35,15 @@ Jazākumullāhu khayran!
 
 **PLEASE NOTE THE FOLLOWING:**
 
+* **Please try to avoid long emails. I know it's hard, especially when asking for help, but not only does it take much longer to reply to long emails, but it also stops other people from getting a timely response.**
+
 * If you want to request me to perform ruqyah, you must [read this first](/ruqyah). Note that I only perform ruqyah on the specific day mentioned in the link and I only perform it in Newcastle-upon-Tyne. Requests which fall outside of this will likely be refused.
+
 * Please do not include the word **urgent** or any of its synonyms in the subject line, and do not mark the email as important. Every ruqyah case is urgent, and many Islamic questions are urgent, so please do not presume you have more right than the existing people who are waiting for answers.
+
 * I don't recommend other raaqis except those whom I work with on a regular basis, namely Abu Ibraaheem in Birmingham. That doesn't mean that there aren't other brothers - there are many, and some of them I am very close to - but I've had my fingers burnt too many times. There are many groups who can find you a raaqi in your area, including [Ruqya Support](http://ruqyasupport.com/), [The Ruqyah Room](https://en-gb.facebook.com/TheRuqyaRoom), and others. I can't vouch for everyone whom they recommend, I can only recommend you to watch [my videos](/video) which include discussions about what to be wary of.
-* I am extremely busy, and it can often take me in excess of 4 weeks to respond to an email. Please do not send follow up emails asking why I haven't responded. If you haven't received a response after 4 weeks, you're welcome to chase it up.  
+
+* I am extremely busy, and it can often take me in excess of 4 weeks to respond to an email. Please do not send follow up emails asking why I haven't responded. If you haven't received a response after 4 weeks, you're welcome to chase it up. The only exception to this are emails relating to events/conferences/speeches, in which case you can chase me up as often as you think appropriate. 
 
 If you've read these points and you understand and agree to them, you can find my email [here](http://muhammadtim.com/email).
 
