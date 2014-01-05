@@ -28,6 +28,7 @@ Here are a selection of the lectures that I think are the most beneficial and im
 * [Ruqyah Workshop - Part Five: Amulets and Talismans](http://www.youtube.com/watch?v=kXm6LFaTKX8&feature=c4-overview&list=UUXwQCBzDSa1wlj36I2x4BFQ)
 * [Ruqyah Workshop - Part Six: The Evil Eye](http://www.youtube.com/watch?v=nDSvkNuh5uo)
 * [Ruqyah Workshop - Part Seven: An Introduction to Ruqyah](http://www.youtube.com/watch?v=xJki92e5ex0)
+**There are some audio problems in the last 10 mins of part 7, I'm currently waiting for Ruqya Support to upload their copy. In the meantime, I covered similar material in the video:** [Al-Qur'an: The Ultimate Cure](http://youtu.be/p1zLqbVk9EE)
 * [Ruqyah Workshop - Part Eight: The Raaqi & His Family](http://www.youtube.com/watch?v=Huz_ts9SpcE)
 * [Ruqyah Workshop - Part Nine: The Ruqyah Session](http://www.youtube.com/watch?v=6vJNq_KiHwY)
 * [Ruqyah Workshop - Part Ten: The Conclusion](http://www.youtube.com/watch?v=OmJQw161R1k)
