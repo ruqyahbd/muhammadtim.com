@@ -23,7 +23,7 @@ If this is the kind of question you have, please do the following:
 
 * Read every single article on this website
 * Watch the ten part [ruqyah training course](http://muhammadtim.com/video#training)
-* Put the following into practice: [7 day programme](http://muhammadtim.com/7dayrd), [adhkaar](http://muhammadtim.com/protectys), [practical ruqyah](http://muhammadtim.com/ruqyah#whattodo) 
+* Put the following into practice: [7 day programme](http://muhammadtim.com/7dayrd), [adhkaar](http://muhammadtim.com/protectys), [practical ruqyah](http://muhammadtim.com/programme) 
 
 **Brothers and sisters, it's not that I don't want to answer these questions, but it doesn't make sense to wait 4 weeks for me to send you the same links that are on the website in the first place.**
 
