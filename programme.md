@@ -17,13 +17,13 @@ We also recommend that patients, or their family and friends keep a record of ho
 * That the patient is not in the possession of a ta'weez.
 * That the patient's house is - to the best of their ability - free of pictures and photographs of animate objects, as well as other things that attract the shaytaan.
 * That the patient is praying all of the five obligatory prayers every single day, on time, without *qadaa* (making up the prayers after their time has passed).
-* That the patient and those people treating them watch the [9 part ruqyah course](/video). 
+* That the patient and those people treating them watch the [10 part ruqyah course](/video). 
 
 ####The following things must be done daily:
 
 * The patient must read all of the adhkaar mentioned [here](/protectys), at the times mentioned in the article (they may supplement this with further authentic adhkaar if they wish). This means that they should be reading certain adhkaar (as described in the article) every single morning and every single evening, as well as every single night before going to bed.
-* The patient must read the Qur'an **at least 45 minutes each day** (ideally twice or three times per day), with the intention of ruqyah. This must comprise of **at least** [al-Faatihah](http://quran.com/1), [Aayat-ul-Kursi](http://quran.com/2/255), [al-Ikhlaas](http://quran.com/112), [al-Falaq](http://quran.com/113), and [an-Naas](http://quran.com/114), repeated to fill the time. If the person is unable to read over themselves, then someone must read over them. If there is no other choice, they can use [ruqyah audio](/audio), or they can use ruqyah audio as a completment to physical recitation.
-* The patient must repent to Allāh frequently throughout the day, and must be active in making du'aa, including du'aa relating to ruqyah and sickness, as well as the du'aa of [Ayyub](http://duas.com/dua/471/dua-from-the-quran-12), the du'aa of [Ya'qub](http://quran.com/12/86), and the du'aa of [Yunus](http://duas.com/dua/472/dua-from-the-quran-13). Learn what they mean, and implement them. The lecture on du'aa [here](/video) may also be of help.
+* The patient must read the Qur'an **at least 45 minutes each day** (ideally twice or three times per day), with the intention of ruqyah. This must comprise of **at least** [al-Faatihah](http://quran.com/1), [Aayat-ul-Kursi](http://quran.com/2/255), [al-Ikhlaas](http://quran.com/112), [al-Falaq](http://quran.com/113), and [an-Naas](http://quran.com/114), repeated to fill the time. If the person is unable to read over themselves, then someone must read over them. If there is no other choice, they can use [ruqyah audio](/audio), or they can use ruqyah audio as a complement to physical recitation.
+* The patient must repent to Allāh frequently throughout the day, and must be active in making du'aa, including du'aa relating to ruqyah and sickness, as well as the du'aa of [Ayyub](http://duas.com/dua/471/dua-from-the-quran-12), and the du'aa of [Yunus](http://duas.com/dua/472/dua-from-the-quran-13). Learn what they mean, and implement them. The lecture on du'aa [here](/video) may also be of help.
 
 ####The following things must be done weekly:
 
