@@ -14,6 +14,7 @@ We also recommend that patients, or their family and friends keep a record of ho
 ####Pre-conditions for treatment:
 
 * That the patient directs all of their worship to Allāh alone, without giving a share of Allah's rights to anyone or anything else; trusting in Allāh completely and recognising that there is no cure except from Allāh.
+* That the patient is strict in following the Sunnah of the Messenger of Allāh صلى الله عليه وسلم to the best of their ability, and turns away from anything which opposes it, including forms of dhikr and protection that were not sanctioned by the Prophet صلى الله عليه وسلم or practised by his companions (may Allāh be pleased with them).
 * That the patient is not in the possession of a ta'weez.
 * That the patient's house is - to the best of their ability - free of pictures and photographs of animate objects, as well as other things that attract the shaytaan.
 * That the patient is praying all of the five obligatory prayers every single day, on time, without *qadaa* (making up the prayers after their time has passed).
@@ -32,3 +33,7 @@ We also recommend that patients, or their family and friends keep a record of ho
 ####The following things must be done monthly:
 
 * The patient must implement the [7 day programme](/7dayrd), **at least once every month.**
+
+####The following things should be done regularly:
+
+* The patient should be cupped (cupping in Arabic is called *hijaamah*) on a regular basis. They should advise the practitioner of their specific problem, and be cupped in the place(s) that are advised by the experts for this problem, as well as the place(s) where they feel the pain is concentrated. In all of this, the recommendations of the cupping practitioner should be followed at all times.
