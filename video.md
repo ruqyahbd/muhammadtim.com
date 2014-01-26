@@ -33,4 +33,4 @@ Here are a selection of the lectures that I think are the most beneficial and im
 * [Ruqyah Workshop - Part Nine: The Ruqyah Session](http://www.youtube.com/watch?v=6vJNq_KiHwY)
 * [Ruqyah Workshop - Part Ten: The Conclusion](http://www.youtube.com/watch?v=OmJQw161R1k)
 
-In the future, and with the permission of Allāh, I hope to be able to post corrections to any mistakes here as well. Eventually, the idea is to incorporate corrections into the videos themselves.
+In the future, and with the permission of Allāh, I hope to be able to post corrections to any mistakes here as well. Eventually, the idea is to incorporate corrections into the videos themselves. See the [corrections page](/corrections) for more information.
