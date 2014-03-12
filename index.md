@@ -9,6 +9,8 @@ Assalāmu 'alaykum warahmatullāhi wa barakātuhu…
 
 At some time in the future, there's a plan to develop this into a proper site. For the time being, it's more important to get the content out there than for it to look good, and the site allows me to email and text people long articles by referring them to a short link on this site.
 
+**Update: I've finally got round to making a major update to the site content, and this is expected to be completed by the end of March 2014 in shā' Allāh, including lecture notes, course booklets, and more in-depth information.**
+
 I've recently added a [blog](/blog) to the site (still in testing), mostly to allow me to post things quickly via email. Those posts that I think are particularly important will in shā' Allāh be moved to the artciles section. 
 
 For the time being, in addition to the [blog](/blog) you can access articles and information from the bar at the top of the page. Here is a selection of the most popular articles:
