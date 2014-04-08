@@ -7,9 +7,7 @@
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu…
 
-At some time in the future, there's a plan to develop this into a proper site. For the time being, it's more important to get the content out there than for it to look good, and the site allows me to email and text people long articles by referring them to a short link on this site.
-
-**Update: I've finally got round to making a major update to the site content, and this is expected to be completed by the end of March 2014 in shā' Allāh, including lecture notes, course booklets, and more in-depth information.**
+**Latest update:** The new website is well underway, and I'm hoping that this last update will be the last needed before the new website is launched, in shā' Allāh by the end of April 2014. This update has mostly been about correcting links and inaccuracies, as well as a general update of information.
 
 I've recently added a [blog](/blog) to the site (still in testing), mostly to allow me to post things quickly via email. Those posts that I think are particularly important will in shā' Allāh be moved to the artciles section. 
 

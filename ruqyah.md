@@ -7,7 +7,7 @@
 
 This document - *in shā' Allāh* - is designed to provide important information for patients who are asking for *ruqyah* to be performed. 
 
-There is a clinic which I run every Tuesday evening in Newcastle-upon-Tyne for ruqyah patients. As a rule, I don't travel for the purpose of ruqyah, so patients have to come to Newcastle, and there are currently no alternate days or times available. Bookings are taken via brother Basak, who is my ruqyah partner. His number is given out [on request](/contact) to people who ask for appointments.
+There is a clinic which I run every Monday evening in Newcastle-upon-Tyne for ruqyah patients. As a rule, I don't travel for the purpose of ruqyah, so patients have to come to Newcastle, and there are currently no alternate days or times available. Bookings are taken via brother Basak, who is my ruqyah partner. His number is given out [on request](/contact) to people who ask for appointments.
 
 As many of you will know, treating people voluntarily is plagued with problems and difficulties. There are so many patients and so few resources. For our small clinic in Newcastle, this presents new challenges and requires a new approach.
 
@@ -37,7 +37,7 @@ Based on this, we're going to make the following changes to our previous setup, 
 
 <a id="whattodo" name="whattodo" style="color: inherit; text-decoration: inherit;">For</a> those who accept these conditions, and wish to attend the clinic, with their nominated helper, we offer the following advice:
 
-* Prepare yourself by repenting to Allāh and purifying your heart. [This advice may help](/advice).
+* Prepare yourself by repenting to Allāh and purifying your heart. [This advice may help](/anadvice).
 * Stick to your regular [adhkaar](/protectys).
 * Follow the [7 day ruqyah programme](/7dayrd), and repeat it if necessary.
 * Try to recite the Qur'an yourself, especially [al-Faatihah](http://quran.com/1), [al-Baqarah](http://quran.com/2), [Aayat-ul-Kursi](http://quran.com/2/255), [the last two aayaat from al-Baqarah](http://quran.com/2/285-286), [al-Ikhlaas](http://quran.com/112), [al-Falaq](http://quran.com/113), and [an-Naas](http://quran.com/114). Blow into your hands and wipe over yourself, if you are able.

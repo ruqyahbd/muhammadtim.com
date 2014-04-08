@@ -28,11 +28,11 @@ We also recommend that patients, or their family and friends keep a record of ho
 
 ####The following things must be done weekly:
 
-* The patient must read [Surah al-Baqarah](http://quran.com/2) in their home, **no less than once every three days**. It would be preferrable if al-Baqarah was integrated into the daily ruqyah, and even better if it can be completed once or twice per day, but this depends on a person's ability. If a person is unable to read, they may ask someone else to read in their house, and if nobody is available, they may play the recorded audio recitation, such as the example [here](http://www.youtube.com/watch?v=ve3I2jiBUTk). However, the recorded audio is not sufficient if there are people who can recite.
+* The patient must read [Surah al-Baqarah](http://quran.com/2) in their home, **no less than once every three days**. It would be preferrable if al-Baqarah was integrated into the daily ruqyah, and **even better if it can be completed once or twice per day**, but this depends on a person's ability. If a person is unable to read, they may ask someone else to read in their house, and if nobody is available, they may play the recorded audio recitation, such as the example [here](http://www.youtube.com/watch?v=ve3I2jiBUTk). However, the recorded audio is not sufficient if there are people who can recite.
 
 ####The following things must be done monthly:
 
-* The patient must implement the [7 day programme](/7dayrd), **at least once every month.**
+* The patient must implement the [7 day programme](/7dayrd), **at least once every month, preferrably twice.**
 
 ####The following things should be done regularly:
 

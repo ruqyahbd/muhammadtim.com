@@ -7,7 +7,7 @@
 
 A lot of the lectures that I do end up on YouTube. 
 
-Here are a selection of the lectures that I think are the most beneficial and important. More will be added when I have time to review them, in shaa' Allāh:
+Here are a selection of the lectures that I think are the most beneficial and important. More will be added when I have time to review them, in shaa' Allāh, and there is a project ongoing to help with this that you can volunteer for by [email](/email):
 
 * [How To Protect Yourself From Magic, Evil Eye & The Jinn](http://youtu.be/-6J8me0RjYY)
 
