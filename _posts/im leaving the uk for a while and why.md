@@ -1,7 +1,5 @@
----
 [published: true]:/
 [title: I'm Leaving the UK for a While (and Why)]:/
----
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu,
 
@@ -25,7 +23,7 @@ In the mean time, it's all about tying up loose ends and finishing off work, inc
 
 All in all, my aim is to return to Newcastle with significantly more knowledge, greater financial stability, and a fresh outlook, with a permanent base for the Humble Foundation (ideally combined with a new masjid in an area of Newcastle that doesn't have one), and a set of completed projects for the charity for at least 2014/15...
 
-> **"I only intend reform as much as I am able. And my success is only through Allah. Upon him I rely, and to Him I return."** [http://quran.com/11/88]
+> **"I only intend reform as much as I am able. And my success is only through Allah. Upon him I rely, and to Him I return."** [11:88](http://quran.com/11/88)
 
 Wassalāmu 'alaykum warahmatullāhi wa barakātuhu,
 
