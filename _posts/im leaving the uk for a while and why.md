@@ -1,6 +1,6 @@
 ---
-published: true
-title: "I'm Leaving the UK for a While (and Why)"
+[published: true]:/
+[title: I'm Leaving the UK for a While (and Why)]:/
 ---
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu,
