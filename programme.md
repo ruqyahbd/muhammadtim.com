@@ -5,7 +5,7 @@
 
 #Ruqyah Programme for Patients
 
-All of our ruqyah patients, whether those who are attending our [ruqyah clinic](/ruqyah), or those who are receiving advice [by email](/contact), need to have a strict minimum programme which they follow, either through self-treatment, or with the help of friends and family.
+All of our ruqyah patients, whether those who have previously attended our ruqyah clinic, or those who are receiving advice [by email](/contact), need to have a strict minimum programme which they follow, either through self-treatment, or with the help of friends and family.
 
 We consider this **the minimum that a person needs to do** in order to deal with the problem they have, whether jinn possession, magic, evil eye, or any other problem for which ruqyah is recommended as a treatment.
 

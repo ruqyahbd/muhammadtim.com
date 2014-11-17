@@ -13,5 +13,5 @@ There are many kinds of ruqyah audio available on the internet, but we have foun
 
 * [Shaykh Muhammad Luhaidan](http://youtu.be/0O0Q_-oc1rU)
 
-* [Shaykh Ahmad al-Ajmy](http://quranaudiodownload.com/audio/ruqyah/Sheikh_Ahmed_Bin_Ali_Al-Ajmy_Ruqya.mp3)
+* [Shaykh Ahmad al-Ajmy](https://archive.org/details/Ar-ruqyahAs-shariahRecitationBySheikhAhmadAlAjmi)
  

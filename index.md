@@ -7,15 +7,13 @@
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu…
 
-**Latest update:** The new website is well underway, and I'm hoping that this last update will be the last needed before the new website is launched, in shā' Allāh by the end of April 2014. This update has mostly been about correcting links and inaccuracies, as well as a general update of information.
-
-I've recently added a [blog](/blog) to the site (still in testing), mostly to allow me to post things quickly via email. Those posts that I think are particularly important will in shā' Allāh be moved to the artciles section. 
+This website is in need of development. This was scheduled for the early part of 2014, but due to me being extremely busy, I've had to delay the new website until the end of this year.
 
 For the time being, in addition to the [blog](/blog) you can access articles and information from the bar at the top of the page. Here is a selection of the most popular articles:
 
-* [Information for Ruqyah Patients **(Updated)**](/ruqyah)
+* [Information for Ruqyah Patients](/ruqyah)
 
-* [Ruqyah Programme for Patients **(New)**](/programme)
+* [Ruqyah Programme for Patients](/programme)
 
 * [7 Day Ruqyah Detox Programme - Shaykh 'Adil ibn Tahir al-Muqbil](/7dayrd)
 
