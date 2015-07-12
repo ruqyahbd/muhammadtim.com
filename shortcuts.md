@@ -13,7 +13,7 @@ With the advent of email, SMS, and the internet, people are increasingly turning
 
 The scholars of the science of hadeeth, as well as the scholars of Islamic etiquettes spoke strongly against this practice, especially with regard to the Prophet (may the peace and blessings of Allāh be upon him). For example, if a person wanted to write صلى الله عليه وسلم, they might be tempted to suffice by writing ص - this was a practice that was universally condemned by the scholars of the time. So what did they advise them to do? Leave a space, then come back later and write the full phrase, out of respect and honour of the Messenger (may the peace and blessings of Allāh be upon him).
 
-So how does this related to eletronic communication? I get many text messages that start with *slmz* and finish with *jzk*, and of course they will come over *iA*. This is from the examples of bad manners towards Allāh and His Messenger (may the peace and blessings of Allāh be upon him), and is exactly the same as some of those early students who were rebuked for writing ص. 
+So how does this related to electronic communication? I get many text messages that start with *slmz* and finish with *jzk*, and of course they will come over *iA*. This is from the examples of bad manners towards Allāh and His Messenger (may the peace and blessings of Allāh be upon him), and is exactly the same as some of those early students who were rebuked for writing ص. 
 
 But how do we keep up with the fast pace of electronic communication? 
 
@@ -30,6 +30,7 @@ For example, I write on my phone *slm* and the phone replaces the phrase with *a
 Here are the instructions for doing this on various phones and computers:
 
 * iPhone [iOS 5+](http://www.pcadvisor.co.uk/how-to/apple/3443065/how-use-keyboard-shortcuts/).
+* Also for iPhone/iPad: a brother sent me an email recently that he has developed a free iPhone/iPad app which does something very similar. You can find it [here](https://itunes.apple.com/us/app/islamic-phrases-keyboard-arabic/id939443886?ls=1&mt=8)
 * [Mac OS X](http://www.cultofmac.com/155340/create-ios-style-keyboard-shortcuts-in-os-x-video-how-to/), or via [this app](https://itunes.apple.com/us/app/dashexpander/id458867049?mt=12) and similar.
 * [Android](http://heresthethingblog.com/2012/12/04/androidiphone-tip-create-custom/), also [this app](http://www.swypeinc.com/), and [this one](https://play.google.com/store/apps/details?id=net.cdeguet.smartkeyboardpro&hl=en).
 * [Windows Phone](http://www.windowsphone.com/en-us/how-to/wp7/basics/typing-shortcuts)
@@ -39,7 +40,7 @@ Here are the instructions for doing this on various phones and computers:
 
 One important point to note is that you want to choose a phrase that is both easy to type and not replicated as part of a normal word. For example, you don't want to use *saw* for  صلى الله عليه وسلم because every time you write: *yes, I saw the brother yesterday* you will end up with: *yes, I  صلى الله عليه وسلم the brother yesterday*. On the other hand, something like *pbuh* is quite good, because it isn't going to be part of a normal word.
 
-Also, you can use the feature for typing things like Arabic phrases that you find it hard to type normally, or things that you frequently spell wrong. I even use it to avoid typing my email address! Most of the software mentioned above auto corrects captial letters as well, so when you type it after a full stop, it automatically makes the first letter a capital.
+Also, you can use the feature for typing things like Arabic phrases that you find it hard to type normally, or things that you frequently spell wrong. I even use it to avoid typing my email address! Most of the software mentioned above auto corrects capital letters as well, so when you type it after a full stop, it automatically makes the first letter a capital.
 
 Here are a few properly written Islamic words and phrases to get you started (you can copy and paste them into the software you are using if you like):
 
@@ -58,17 +59,19 @@ Here are a few properly written Islamic words and phrases to get you started (yo
 *  صلى الله عليه وسلم  (saaw) 
 * Allāh (I replace the spelling of the word Allah without the bar over the a to make the spelling better)
 
-When I'm translating on my Mac, I even add shortcuts for the proper romanized equivalents of Arabic letters, like:
+When I'm translating on my Mac, I even add shortcuts for the proper romanised equivalents of Arabic letters, like:
 
 * ā (//a)
 * ī (//i)
 * ū (//u)
 
+Even better, you can now sync shortcuts between iOS and OS X using iCloud, as mentioned [here](http://www.cultofmac.com/253798/sync-your-keyboard-shortcuts-via-icloud-in-mavericks-os-x-tips/).
+
 The double forward slash is just a quick way for me to type the shortcut without worrying about it happening by accident. Obviously, that wouldn't work on a mobile because the forward slash is awkward to write, but on my iPhone at least it's easy to write ā by just holding down the 'a' key, so no need for a shortcut there.
 
 To conclude, I'm not suggesting that you give up writing the phrases properly, as this is always the preferred option and the most correct in terms of Islamic manners, and it has a reward in the sight of Allāh. What I am saying is that it is a lot better to have the phone write assalāmu 'alaykum for you, than for you to send someone a message starting *slmz*!
 
-**PS:** while I'm on writing this, I'll also mention that it is not appropriate to say to someone *jazākallāh* without adding *khayran*. The word *jazā* in Arabic is used for both good and bad, including being used for [the punishment of the people of Hellfire](http://quran.com/9/95). Even if it's clear what you mean, it's good etiqutte to follow the Sunnah and say the whole thing! 
+**PS:** while I'm on writing this, I'll also mention that it is not appropriate to say to someone *jazākallāh* without adding *khayran*. The word *jazā* in Arabic is used for both good and bad, including being used for [the punishment of the people of Hellfire](http://quran.com/9/95). Even if it's clear what you mean, it's good etiquette to follow the Sunnah and say the whole thing! 
   
 
 
