@@ -1,5 +1,7 @@
 [published: true]:/
+[date: 2014-11-17]:/
 [title: I'm Leaving the UK for a While (and Why)]:/
+[alias: /posts/im%20leaving%20the%20uk%20for%20a%20while%20and%20why]:/
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu,
 

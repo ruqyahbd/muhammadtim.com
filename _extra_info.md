@@ -2,3 +2,4 @@
 [site_title: muhammadtim.com]:/
 [has_blog: true]:/
 [blog_root: /posts]:/
+[date-format: dd MMMM, yy]:/
