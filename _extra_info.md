@@ -3,3 +3,4 @@
 [has_blog: true]:/
 [blog_root: /posts]:/
 [date-format: dd MMMM, yy]:/
+[global-locale: en_GB]:/
