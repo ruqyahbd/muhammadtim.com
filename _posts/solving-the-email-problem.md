@@ -4,7 +4,7 @@
 
 In preparation for the new website, there needs to be a new way of handling email. I'm using this blog post as a temporary way of letting people know, as I answer the outstanding emails, that things are going to change, in shā' Allāh.
 
-##The Problem
+####The Problem
 
 The problem is quite simple: emails are taking way too much of my time. So much so that my most important projects, such as the [Humble Foundation](http://www.humblefoundation.org), are suffering. Despite my best efforts to the contrary, these emails are not decreasing, they're increasing considerably.
 
