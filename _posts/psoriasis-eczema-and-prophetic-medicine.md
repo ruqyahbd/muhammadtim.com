@@ -2,8 +2,6 @@
 [date: 2015-08-03]:/
 [title: Psoriasis, Eczema, and Prophetic Medicine]:/
 
-# Psoriasis, Eczema, and Prophetic Medicine
-
 **SERIOUS DISCLAIMER: I am not a doctor and this is not a substitute for medical advice. Do not implement anything of the following without consulting your doctor, or a suitably qualified professional.**
 
 Every now and again, I get emails regarding psoriasis and eczema. People ask whether they may be symptomatic of magic or the evil eye, and of course the answer is 'maybe'. Like a whole host of other symptoms, including headaches, nausea, vomiting, insomnia, and many others, there is an overlap between genuine medical conditions that have no other-worldly cause, and those that are caused by the jinn and related things. To the experienced *raaqi*, there is a difference, but it is very subtle and easy to get wrong. Essentially, we are looking for signs that the illness is way outside of the standard medical pattern, particularly after detailed medical investigations have taken place. If a doctor is left mumbling under his/her breath that it 'just doesn't make sense', and if the person is getting passed from department to department, and specialist to specialist, then the raaqi's interest starts to pique. Of course, it may be a simple misdiagnosis, or an underlying problem that remains undiscovered. However, I would suggest that it is at least possible that the underlying problem is not a medical one, but a jinn-related one.
