@@ -8,12 +8,6 @@ I've found something that appears to be some kind of ta'weez and perhaps even ma
 
 ##Answer
 
-#Question
-
-How should a ta'weez be destroyed? 
-
-#Answer
-
 When it comes to destroying ta'weez, there are a number of things to bear in mind. This answer is adapted from the answer given by Shaykh ‘Adil al-Muqbil (may Allāh protect and preserve him), and is similar to the methods taught to the members of the Committee for the Promotion of Virtue and the Prevention of Vice in Saudi Arabia who deal with magic on a day-to-day basis. I have added some things myself, including some additional points of safety, and additional descriptions, but the basic method is that of the Shaykh -- Muhammad Tim.
 
 **You will need the following equipment:**
