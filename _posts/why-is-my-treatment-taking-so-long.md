@@ -2,11 +2,11 @@
 [date: 2015-08-04]:/
 [title: Why Is My Treatment Taking So Long?]:/
 
-##Question
+####Question
 
 A patient has been doing ruqyah for a long time, without getting rid of the problem. They are following all of the recommended steps. Why are they not being cured? 
 
-##Answer
+####Answer
 
 This is a common mistake that many people make. They think that because they are doing the right thing, the problem should go away within a certain time. This is essentially a problem in managing expectations. If the doctor told you that you had cancer, you wouldn't come back after your first chemotherapy treatment and say, "Why am I not cured now?" That's because you would expect that it would take a year, perhaps two years to go into full remission and get the all clear. 
 

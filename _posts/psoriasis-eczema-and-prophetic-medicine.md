@@ -16,7 +16,7 @@ Please don't email me as to where you can get the ingredients from; instead, [le
 
 May Allāh reward those who sent these to me with the best of this world and the next.
 
-## Treatment One
+#### Treatment One
 
 Combine these dry ingredients in ground powder form:
 
@@ -31,7 +31,7 @@ Use apple cider vinegar if the eczema is red like pimples, wet, watery, or bleed
 
 Separately, try a warm jug of water and add 2 tablespoons olive oil and pour on the body after each bath, then apply the ointment; this helps to reduce the stinging. 
 
-## Treatment Two
+#### Treatment Two
 
 * 1 cup Sidr Powder.
 * 3 cups Mehndi.

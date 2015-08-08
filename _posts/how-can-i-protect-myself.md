@@ -2,11 +2,11 @@
 [date: 2015-08-05]:/
 [title: How Can I Protect Myself?]:/
 
-##Question
+####Question
 
 I fear that I am at risk of a jinn attack, magic, or the evil eye. How can I protect myself?
 
-##Answer
+####Answer
 
 This is an important question, and one that is relevant to almost everyone at some time or another in their lives. The answer is not to do one single thing, but to do as many of the things that Allāh has established as causes for protection as possible, while affirming that these causes are nothing more than causes, and they will only be effective with the permission of Allāh.
 
