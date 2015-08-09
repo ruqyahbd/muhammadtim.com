@@ -11,7 +11,7 @@ Our experience is that the audio in these links can be an effective part of trea
 
 There are many kinds of ruqyah audio available on the internet, but we have found these two to be among the best, and all praise is for Allāh:
 
-* [Shaykh Muhammad Luhaidan](http://youtu.be/0O0Q_-oc1rU)
-
 * [Shaykh Ahmad al-Ajmy](https://archive.org/details/Ar-ruqyahAs-shariahRecitationBySheikhAhmadAlAjmi)
+
+* [Shaykh Muhammad Luhaidan](https://www.youtube.com/watch?v=xQs1Bvbn9ww)
  
