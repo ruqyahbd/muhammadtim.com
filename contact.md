@@ -5,7 +5,7 @@
 
 #Contact Me
 
-In preparation for the new website, there needs to be a new way of handling email. I'm using [this blog post](http://muhammadtim.com/blog/solving-the-email-problem) as a temporary way of letting people know, as I answer the outstanding emails, that things are going to change, in shā' Allāh.
+In preparation for the new website, there needs to be a new way of handling email. I'm using [this blog post](http://muhammadtim.com/posts/solving-the-email-problem) as a temporary way of letting people know, as I answer the outstanding emails, that things are going to change, in shā' Allāh.
 
 Most importantly, I no longer try to answer emails within a certain time limit. Please have a read of the blog post for more information.
 

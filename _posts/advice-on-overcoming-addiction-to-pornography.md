@@ -21,4 +21,6 @@ I would suggest the following as a method to overcome these problems:
 8. [This video](https://www.youtube.com/watch?v=25GpteVMBX0) covers the issue in a lot more detail.
 9. If you fall down and slip, then get right back up again, go back to point number one, and persevere.
 
+Some might say, 'Why didn't you mention marriage?' The answer is that for most of the people who ask me these questions, it's either not an option for them at this time, or they are already married and suffering with the addiction. I'm not sure that marriage is a one-stop cure, unless it is also accompanied by some or all of the points mentioned above. 
+
 Allāh knows best.
