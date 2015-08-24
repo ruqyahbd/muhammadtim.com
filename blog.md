@@ -8,6 +8,11 @@
 
 I added this to the site to make it easy to add content in a more timely fashion. Posts of particular importance will eventually be moved to articles in the relevant section of the website in shā' Allāh. Please note that these posts are a little less polished than some of the other content, so my apologies for that.
 
-<div data-lift="if?extra_true=has_blog">
-      <div data-lift="blog.simple"></div>
-</div>
+<ul data-lift="blog.posts?max=100">
+    <li data-post="item">
+        <h2><a data-post="link" href="#">Blog Post</a></h2>
+        <h4><span data-post="date">2012/12/14</span></h4>
+        <div data-post="shortcontent">Post Content goes here</div>
+        <div data-post="more"><a href="#">Read More...</a></div>
+    </li>
+</ul>
