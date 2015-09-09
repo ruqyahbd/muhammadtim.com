@@ -1,7 +1,7 @@
 [title: Closing Windows and Doors at Night - muhammadtim.com]:/
 [menu: At Night]:/
+[alias: /atnight]:/
 [menu-locgroup: articles]:/
-[path: /atnight]:/
 [alias: /articles/atnight]:/
 
 #Closing Windows and Doors at Night

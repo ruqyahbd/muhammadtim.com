@@ -15,7 +15,7 @@ During my recent time with our Shaykh ‘Adil ibn Ṭahir al-Muqbil, I noticed t
 
 Based on the advice of the shaykh, and some of my own research and experience, I've compiled a list of simple things that everyone can do to protect themselves. **This list is not intended to be comprehensive - it's intended to be easy for everyone, whilst covering the things that provide the strongest protection, with the permission of Allah.**
 
-There is more information in [this blog post](muhammadtim.com/posts/how-can-i-protect-myself), to complement this article.
+There is more information in [this blog post](http://muhammadtim.com/posts/how-can-i-protect-myself), to complement this article.
 
 Before beginning, I'd like to remind everyone, that du‘aa and dhikr have etiquettes that must be observed. From the most important is that you are conscious of what you are saying and focused upon the meaning; really take the time out to pause whatever you are doing and sit quietly, remembering your need of Allah, and calling upon him sincerely. For more information, see: [http://duas.com/tips.php](http://duas.com/tips.php).
 

@@ -1,6 +1,6 @@
 [title: Advice Part Five: Reliance and Medicine - muhammadtim.com]:/
 [menu-locgroup: advice]:/
-[path: /advice/5]:/
+[alias: /advice/5]:/
 [alias: /articles/advice/5]:/
 
 

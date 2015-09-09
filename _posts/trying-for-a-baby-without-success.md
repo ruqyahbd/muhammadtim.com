@@ -21,7 +21,7 @@ If we ignore either of these two aspects, then we are falling short in our effor
 
 Based on the above, I have the following advice for couples who are struggling to have children:
 
-1. Taking yourself to account, and seeking the forgiveness of Allāh, as He said, **"I said (to them): 'Ask forgiveness from your Lord; Verily, He is Oft-Forgiving; He will send [rain from] the sky upon you in [continuing] showers, and give you increase in wealth and children and provide for you gardens and provide for you rivers."** [71:10-12](quran.com/71/10-12). This was the advice of al-Ḥasan al-Baṣrī (may Allāh have mercy on him) to the one who complained that they were unable to have children; and it is a golden piece of advice for those whom Allāh blesses with the ability to act upon it.
+1. Taking yourself to account, and seeking the forgiveness of Allāh, as He said, **"I said (to them): 'Ask forgiveness from your Lord; Verily, He is Oft-Forgiving; He will send [rain from] the sky upon you in [continuing] showers, and give you increase in wealth and children and provide for you gardens and provide for you rivers."** [71:10-12](http://quran.com/71/10-12). This was the advice of al-Ḥasan al-Baṣrī (may Allāh have mercy on him) to the one who complained that they were unable to have children; and it is a golden piece of advice for those whom Allāh blesses with the ability to act upon it.
 2. Focusing on prayers and the daily remembrance of Allāh. It's amazing how many people are able to overcome the worst of calamities with with these two simple things. Allāh said: **"O you who believe! Seek help in patience and prayer, indeed Allāh is with the patient."** [2:153](http://quran.com/2/153)
 3. Supplicate with both [general supplications](http://duas.com), and specifically the [du‘ā of Zakariyyā](http://duas.com/dua/479/dua-from-the-quran-19), and other supplications from the Qur'an that the prophets (may the peace and blessings of Allāh be upon them) said before Allāh blessed them with children. Be careful to observe [the proper etiquette of supplicating, and the things which help your supplications to be accepted](http://duas.com/tips.php).
 4. Follow the proper etiquette of martial relations, particularly [this supplication](http://duas.com/dua/332/dua-before-sexual-intercourse), and avoiding forbidden practices; since Allāh does not put blessings in that which is forbidden.
@@ -29,8 +29,8 @@ Based on the above, I have the following advice for couples who are struggling t
 
 For those who are concerned regarding problems relating to the jinn, I would advise the following two resources to begin with:
 
-1. [How Can I Protect Myself?](muhammadtim.com/posts/how-can-i-protect-myself)
-2. [The 7 Day Ruqyah Programme](muhammadtim.com/7dayrd), moving on to [The Full Ruqyah Programme](muhammadtim.com/programme), should you feel it necessary.
+1. [How Can I Protect Myself?](http://muhammadtim.com/posts/how-can-i-protect-myself)
+2. [The 7 Day Ruqyah Programme](http://muhammadtim.com/7dayrd), moving on to [The Full Ruqyah Programme](http://muhammadtim.com/programme), should you feel it necessary.
 
 Finally, I would like to emphasise once again that sins are as much of a reason for not being able to have children as jinn problems, if not more. Do not use the jinn as an excuse to delay your repentance or to gloss over the mistakes that you are making. Even if it is jinn related, repentance is equally important. I would also like to emphasise that there is no harm in seeking medical advice, providing that medical advice does not exceed the limits of what is permissible for a Muslim.
 

@@ -18,10 +18,10 @@ There's no doubt that the number of people seeking ruqyah has reached epidemic p
 
 For this reason, I would not consider treating a patient who is travelling from outside of the local area, unless the following conditions were present:
 
-1. That the person has extensively tried self-ruqyah, and has been guided through the process, such as strictly following the article [Where Do I Start?](muhammadtim.com/posts/where-do-i-start), followed by [email support](muhammadtim.com/contact), and so on.
+1. That the person has extensively tried self-ruqyah, and has been guided through the process, such as strictly following the article [Where Do I Start?](http://muhammadtim.com/posts/where-do-i-start), followed by [email support](http://muhammadtim.com/contact), and so on.
 2. That the person is following all of the guidelines and conditions of ruqyah to the best of their ability.
 3. That the person has a genuinely serious case, which either puts their religion at considerable risk, or has caused them to suffer a significant loss in quality of life.
 4. That the person has no other family member, friend, or ruqyah practitioner who could help them.
 5. That it is believed that by travelling, and after the help of Allāh, they would benefit. 
 
-You can find out the status of any clinics that I'm holding, in the UK or abroad, via [muhammadtim.com/clinic](muhammadtim.com/clinic).
+You can find out the status of any clinics that I'm holding, in the UK or abroad, via [muhammadtim.com/clinic](http://muhammadtim.com/clinic).

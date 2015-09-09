@@ -1,6 +1,6 @@
 [title: Advice Part Eight: Magic & Magicians - muhammadtim.com]:/
 [menu-locgroup: advice]:/
-[path: /advice/8]:/
+[alias: /advice/8]:/
 [alias: /articles/advice/8]:/
 
 

@@ -14,5 +14,6 @@ I added this to the site to make it easy to add content in a more timely fashion
         <h4><span data-post="date">2012/12/14</span></h4>
         <div data-post="shortcontent">Post Content goes here</div>
         <div data-post="more"><a href="#">Read More...</a></div>
+				<hr/>
     </li>
 </ul>

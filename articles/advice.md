@@ -2,7 +2,9 @@
 [menu: Advice]:/
 [menu-locgroup: articles]:/
 [path: /anadvice]:/
+[alias: /advice]:/
 [alias: /articles/anadvice]:/
+[alias: /articles/advice]:/
 
 #An Advice Regarding Sickness & Difficulty, Especially in Relation to Magic
 

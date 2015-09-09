@@ -8,7 +8,7 @@ From the medicines which are established in the Sunnah of the Prophet ﷺ is the
 
 **Please note that truffles are expensive. I do not recommend that you use them as an initial treatment, until you have tried the other inexpensive treatments, such as the [7 day programme](muhammadtim.com/7dayrd), and I do not recommend that you buy in large amounts, until you are sure that the truffle is having the desired effect.**
 
-* **Recommended Type of Truffle:** autumn or winter truffle. This is from the experience of those  You only need a very small amount. [trufflehunter.co.uk](trufflehunter.co.uk) is one place to source it.
+* **Recommended Type of Truffle:** autumn or winter truffle. This is from the experience of those  You only need a very small amount. [trufflehunter.co.uk](http://trufflehunter.co.uk) is one place to source it.
 * **Storage:** 
 	* One option is to cut it up into small pieces, put it in a brown paper bag, and leave in the fridge until it goes hard. 
 	* The second option is to cut it up into small pieces and put in a jar of olive oil, then freeze. To use, defrost the frozen oil naturally at room temp, take out a piece and then put it back in the freezer.
@@ -20,4 +20,4 @@ From the medicines which are established in the Sunnah of the Prophet ﷺ is the
 * I would also recommend the following for those who are seeking to treat the evil eye:
 	* Take a very small piece, boil in 1 litre of water for 10 mins. Drink one mint-tea-sized cup (the cups that are just a bit bigger than Arab coffee cups), once or twice per day.
 
-That's all of the information that I have gathered so far. If anyone has anything further to add from their knowledge and experience, please do feel free to [let me know](muhammadtim.com/contact).
+That's all of the information that I have gathered so far. If anyone has anything further to add from their knowledge and experience, please do feel free to [let me know](http://muhammadtim.com/contact).

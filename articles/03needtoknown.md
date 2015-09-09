@@ -1,6 +1,6 @@
 [title: Advice Part Three: What Every Sick Muslim Needs to Know - muhammadtim.com]:/
 [menu-locgroup: advice]:/
-[path: /advice/3]:/
+[alias: /advice/3]:/
 [alias: /articles/advice/3]:/
 
 
