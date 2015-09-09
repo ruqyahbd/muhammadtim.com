@@ -40,7 +40,7 @@ Here are the instructions for doing this on various phones and computers:
 
 One important point to note is that you want to choose a phrase that is both easy to type and not replicated as part of a normal word. For example, you don't want to use *saw* for  صلى الله عليه وسلم because every time you write: *yes, I saw the brother yesterday* you will end up with: *yes, I  صلى الله عليه وسلم the brother yesterday*. On the other hand, something like *pbuh* is quite good, because it isn't going to be part of a normal word.
 
-Also, you can use the feature for typing things like Arabic phrases that you find it hard to type normally, or things that you frequently spell wrong. I even use it to avoid typing my email address! Most of the software mentioned above auto corrects capital letters as well, so when you type it after a full stop, it automatically makes the first letter a capital.
+Also, you can use the feature for typing things like Arabic phrases that you find it hard to type normally, or things that you frequently spell incorrectly. I even use it to avoid typing my email address! Most of the software mentioned above auto corrects capital letters as well, so when you type it after a full stop, it automatically makes the first letter a capital.
 
 Here are a few properly written Islamic words and phrases to get you started (you can copy and paste them into the software you are using if you like):
 
