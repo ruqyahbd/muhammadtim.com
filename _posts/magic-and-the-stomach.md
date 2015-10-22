@@ -4,7 +4,7 @@
 
 **ANOTHER SERIOUS DISCLAIMER: I am not a doctor and this is not a substitute for medical advice. Do not implement anything of the following without consulting your doctor, or a suitably qualified professional.**
 
-After [my post](http://muhammadtim.com/posts/psoriasis-eczema-and-prophetic-medicine) on the topic of psoriasis, eczema, and prophetic medicine, I thought to post another useful treatment, this time for magic that presents itself through bloating in the stomach, abdominal pain, and/or nausea, and a desire to vomit. Notice that I didn't name this post 'magic **in** the stomach', but 'magic **and** the stomach'.
+After [my post](/posts/psoriasis-eczema-and-prophetic-medicine) on the topic of psoriasis, eczema, and prophetic medicine, I thought to post another useful treatment, this time for magic that presents itself through bloating in the stomach, abdominal pain, and/or nausea, and a desire to vomit. Notice that I didn't name this post 'magic **in** the stomach', but 'magic **and** the stomach'.
 That's because I believe that one of the most misdiagnosed things in ruqyah is that the magic has been eaten. While I do believe that magic can be fed to a person, I also believe that this is less common than people imagine it to be. It has reached the extent that some ruqyah practitioners have no other treatment than to say the magic has been fed, and that the person needs to be forced to vomit, through an [emetic](https://en.wiktionary.org/wiki/emetic). At the same time, there is - in my opinion - a legitimate reason why these cases are misdiagnosed, and that is because many forms of magic present themselves through bloating in the stomach, abdominal pain, or nausea. Many patients find a degree of relief from the emetic, and so this fuels the misdiagnosis that a huge portion of people in the world have been fed magic.
 
 Notably, the use of a strong emetic is common among ruqyah practitioners from Yemen, although I don't think that they do so because they believe that everyone has been fed magic; rather, they see the benefit of treating magic that manifests itself through stomach issues through the use of an emetic, often combined with a laxative. Interestingly, I met a Yemeni ruqyah practitioner who suggested that this medicine that they commonly administer has much less effect on someone who is not afflicted with magic. It does not contain ingredients that are medically recognised as causing vomiting, but that the effect is much more pronounced in people who are afflicted. I haven't been able to source the recipe for the powder that is administered, so I'm not able to evaluate how true that is; I'm only told that the powder is brought from Yemen. What I do know, is that a strong emetic effect can be obtained from 4 teaspoons of Indian Costus (*al-Qusṭ al-Hindi*), administered in a glass of Zamzam water, but it's not something that I recommend.
@@ -25,7 +25,7 @@ Mix all together, then every morning:
 
 Stir the mixture with a spoon, then bring a cup of water (Zamzam water would be best), and add a tablespoon of the above mixture to it, mix until the honey is dissolved in the water, then drink from it. Do this every day until the mixture finishes.
 
-It is preferred to use [ruqyah water](http://muhammadtim.com/7dayrd), rather than water that has not been recited upon.
+It is preferred to use [ruqyah water](/7dayrd), rather than water that has not been recited upon.
 
 #### Treatment Two
 

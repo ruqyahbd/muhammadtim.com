@@ -4,7 +4,7 @@
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu,
 
-It's been over 200 days since I last posted something on my blog, and probably a similar length of time since posting on Twitter. With the beginning of Ramadan, I figure that now is a good time to post an update. In my [last post](http://muhammadtim.com/posts/im-leaving-the-uk-and-why), I mentioned that I was going abroad, but I didn't mention where. That was deliberate, so that I was able to have some time to settle in. I think most people know by now that I've moved to Dubai, and I'm now working with [Kalemah Islamic Centre](http://www.kalemah.org/).
+It's been over 200 days since I last posted something on my blog, and probably a similar length of time since posting on Twitter. With the beginning of Ramadan, I figure that now is a good time to post an update. In my [last post](/posts/im-leaving-the-uk-and-why), I mentioned that I was going abroad, but I didn't mention where. That was deliberate, so that I was able to have some time to settle in. I think most people know by now that I've moved to Dubai, and I'm now working with [Kalemah Islamic Centre](http://www.kalemah.org/).
 
 So why Dubai?
 

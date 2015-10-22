@@ -8,7 +8,7 @@ I feel that I can't carry out your ruqyah programme - it's just too much for me.
 
 ####Answer
 
-Firstly, we should be clear that whatever is recommended in this post should be seen as a stepping stone to one of the ruqyah treatments that are described elsewhere on the website, such as the blog post [Where Do I Start?](http://muhammadtim.com/posts/where-do-i-start)
+Firstly, we should be clear that whatever is recommended in this post should be seen as a stepping stone to one of the ruqyah treatments that are described elsewhere on the website, such as the blog post [Where Do I Start?](/posts/where-do-i-start)
 
 However, I also recognise that some people are unlikely to be able to reach that level in one go, so we have to start with something smaller than this goal, and work upwards. Don't worry if you read what I am advising and think, "I'm already doing this!" - that's a good thing, because it's easy, and we can build on it from there.
 
@@ -24,11 +24,11 @@ What these texts make clear to me is that when things become too much, and you d
 
 Based upon this, I would advise to start with the following:
 
-* The programme recommended on: [http://muhammadtim.com/protectys](http://muhammadtim.com/protectys) - these are simple and short words of remembrance and supplication which Allāh revealed as a means of protection.
+* The programme recommended on: [muhammadtim.com/protectys](/protectys) - these are simple and short words of remembrance and supplication which Allāh revealed as a means of protection.
 * [The du'aa of Ayyub](http://duas.com/dua/471/dua-from-the-quran-12), which brought relief from all of his affliction
 * [The du'aa of Yunus](http://duas.com/dua/472/dua-from-the-quran-13), through which Allāh promised to save every believer who calls upon Him.
 * [This comprehensive du'aa for a number of problems](http://duas.com/dua/280/dua-when-in-debt-2), including anxiety and depression, inability and laziness.
 
 However, to do all of these, you will also need to be aware of the etiquette of du'aa, so that you have the ability to do what is needed for your du'aa to be accepted. For this reason, I'd recommend that you to start by watching [this video](https://www.youtube.com/watch?v=UYgBOpHtqzE&feature=youtu.be).
 
-From there, once you are ready, you can move on to the blog post [Where Do I Start?](http://muhammadtim.com/posts/where-do-i-start)
+From there, once you are ready, you can move on to the blog post [Where Do I Start?](/posts/where-do-i-start)

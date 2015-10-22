@@ -6,7 +6,7 @@ The title for this blog post came from something that happened to a friend of mi
 
 At least the person who wrote that was being honest, which is more than I can say for those who have an unhealthy attachment to certain speakers, regardless of what they say or do.
 
-I wrote the [previous post](http://muhammadtim.com/posts/o-nouman-ali-khan-fear-allah) because Nouman Ali Khan made a public statement which had huge consequences when it was shared around the English-speaking world. It was not a small mistake, or a slip of the tongue, but a prolonged statement of several minutes, comprising of an error of the utmost severity. Having said that, I was very careful to adhere to the following points of etiquette:
+I wrote the [previous post](/posts/o-nouman-ali-khan-fear-allah) because Nouman Ali Khan made a public statement which had huge consequences when it was shared around the English-speaking world. It was not a small mistake, or a slip of the tongue, but a prolonged statement of several minutes, comprising of an error of the utmost severity. Having said that, I was very careful to adhere to the following points of etiquette:
 
 * I checked that the statement was not taken out of context, and that the clip was not edited to make the speaker say something that he didn't say. 
 * I wrote the post with reference to that specific statement only, rather than turning the post into an exposé of everything that the speaker has previously said.

@@ -46,6 +46,6 @@ Separately, try a warm jug of water and add 2 tablespoons olive oil and pour on 
 * 1 cup Raw Organic Apple Cider Vinegar, optional.
 * 5g Saffron, optional.
 
-Make a rub out of these ingredients by mixing them together to form a grainy mixture. Use once per week to start, and more if needed. Each time you use it, keep adding more oil to the mixture. Put on skin for 4 hours and wrap the affected area with cling film (also called plastic wrap). Wash the skin clean with water, ideally [ruqyah water](http://muhammadtim.com/7dayrd), after the 4 hours is up.
+Make a rub out of these ingredients by mixing them together to form a grainy mixture. Use once per week to start, and more if needed. Each time you use it, keep adding more oil to the mixture. Put on skin for 4 hours and wrap the affected area with cling film (also called plastic wrap). Wash the skin clean with water, ideally [ruqyah water](/7dayrd), after the 4 hours is up.
 
 

@@ -67,7 +67,7 @@ When it comes to destroying ta'weez, there are a number of things to bear in min
 
 **The water method:**
 
-* Take a bowl of water, and recite [al-Faatihah](http://quran.com/1), and the last three surahs of the Qur'an in it. If you already have [ruqyah water prepared](http://muhammadtim.com/7dayrd), you can use that.
+* Take a bowl of water, and recite [al-Faatihah](http://quran.com/1), and the last three surahs of the Qur'an in it. If you already have [ruqyah water prepared](/7dayrd), you can use that.
 * Keep the bowl of water on the tray, so that everything is kept together, and the water doesn't spill.
 * Put the ta'weez into the water, rubbing off any soluble ink.
 * Take the ta'weez out of the water, break it apart as much as you can, and dispose of the remaining ta'weez and the water in a place which is not frequently used by people, such as the bottom of the garden, or a disused area of land, to reduce the risk of someone being harmed by it, or by throwing it in the river or sea.

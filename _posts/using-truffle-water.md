@@ -6,7 +6,7 @@
 
 From the medicines which are established in the Sunnah of the Prophet ﷺ is the [use of truffle water](http://sunnah.com/urn/179710). I've done my very best to gather together whatever information that I can find on the usage of truffles, in order to help those who are trying to implement this Sunnah treatment. Notably, some people of knowledge said that the word 'eye' here is general, and covers both ailments of the eye, and significantly, **the evil eye**. There is some empirical data which supports this.
 
-**Please note that truffles are expensive. I do not recommend that you use them as an initial treatment, until you have tried the other inexpensive treatments, such as the [7 day programme](muhammadtim.com/7dayrd), and I do not recommend that you buy in large amounts, until you are sure that the truffle is having the desired effect.**
+**Please note that truffles are expensive. I do not recommend that you use them as an initial treatment, until you have tried the other inexpensive treatments, such as the [7 day programme](/7dayrd), and I do not recommend that you buy in large amounts, until you are sure that the truffle is having the desired effect.**
 
 * **Recommended Type of Truffle:** autumn or winter truffle. This is from the experience of those  You only need a very small amount. [trufflehunter.co.uk](http://trufflehunter.co.uk) is one place to source it.
 * **Storage:** 
@@ -20,4 +20,4 @@ From the medicines which are established in the Sunnah of the Prophet ﷺ is the
 * I would also recommend the following for those who are seeking to treat the evil eye:
 	* Take a very small piece, boil in 1 litre of water for 10 mins. Drink one mint-tea-sized cup (the cups that are just a bit bigger than Arab coffee cups), once or twice per day.
 
-That's all of the information that I have gathered so far. If anyone has anything further to add from their knowledge and experience, please do feel free to [let me know](http://muhammadtim.com/contact).
+That's all of the information that I have gathered so far. If anyone has anything further to add from their knowledge and experience, please do feel free to [let me know](/contact).

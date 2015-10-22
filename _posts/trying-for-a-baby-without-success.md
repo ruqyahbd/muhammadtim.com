@@ -29,8 +29,8 @@ Based on the above, I have the following advice for couples who are struggling t
 
 For those who are concerned regarding problems relating to the jinn, I would advise the following two resources to begin with:
 
-1. [How Can I Protect Myself?](http://muhammadtim.com/posts/how-can-i-protect-myself)
-2. [The 7 Day Ruqyah Programme](http://muhammadtim.com/7dayrd), moving on to [The Full Ruqyah Programme](http://muhammadtim.com/programme), should you feel it necessary.
+1. [How Can I Protect Myself?](/posts/how-can-i-protect-myself)
+2. [The 7 Day Ruqyah Programme](/7dayrd), moving on to [The Full Ruqyah Programme](/programme), should you feel it necessary.
 
 Finally, I would like to emphasise once again that sins are as much of a reason for not being able to have children as jinn problems, if not more. Do not use the jinn as an excuse to delay your repentance or to gloss over the mistakes that you are making. Even if it is jinn related, repentance is equally important. I would also like to emphasise that there is no harm in seeking medical advice, providing that medical advice does not exceed the limits of what is permissible for a Muslim.
 

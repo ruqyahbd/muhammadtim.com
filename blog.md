@@ -1,7 +1,7 @@
 [title: Muhammad Tim Humble's blog - muhammadtim.com]:/
 [menu: Blog]:/
 [menu-locgroup: primary]:/
-[order: 5]:/
+[order: 4]:/
 [path: /blog]:/
 
 #Blog Posts
