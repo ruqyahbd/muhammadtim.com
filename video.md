@@ -14,7 +14,7 @@ Here are a selection of the lectures that I think are the most beneficial and im
 Short videos for ruqyah patients:
 
 * [Al-Qur'an: The Ultimate Cure](http://youtu.be/p1zLqbVk9EE)
-* [Du'a: The Weapon of the Believer](http://youtu.be/UYgBOpHtqzE) **Please note that this is in no way an endorsement of Yasir Qadhi and his deviant beliefs. It was recorded a long time ago, and I still say that the book is a fantastic book, and the intention is to benefit from material that is not available from other books in English.**
+* [Du'a: The Weapon of the Believer](http://youtu.be/UYgBOpHtqzE) - **Please note that this is in no way an endorsement of Yasir Qadhi and his deviant beliefs. It was recorded a long time ago, and I still say that the book is a fantastic book, and the intention is to benefit from material that is not available from other books in English.**
 
 The first ruqyah workshop with Abu Ibraheem. There are some audio problems in the last 10 minutes of part seven (the same info is present in the Qur'an lecture at the top of the page), and it still needs some editing. Please see [this](/posts/confusion-over-how-to-seek-blessings-for-someone-to-prevent-the-evil-eye) for a clarification on what to say to prevent the evil eye:
 

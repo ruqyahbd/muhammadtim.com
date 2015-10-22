@@ -1,5 +1,5 @@
 [title: Muhammad Tim Humble - muhammadtim.com]:/
-[menu: Home]:/
+[menu: Notes]:/
 [menu-locgroup: primary]:/
 [order: 6]:/
 
