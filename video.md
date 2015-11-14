@@ -16,18 +16,18 @@ Short videos for ruqyah patients:
 * [Al-Qur'an: The Ultimate Cure](http://youtu.be/p1zLqbVk9EE)
 * [Du'a: The Weapon of the Believer](http://youtu.be/UYgBOpHtqzE) - **Please note that this is in no way an endorsement of Yasir Qadhi and his deviant beliefs. It was recorded a long time ago, and I still say that the book is a fantastic book, and the intention is to benefit from material that is not available from other books in English.**
 
-The first ruqyah workshop with Abu Ibraheem. There are some audio problems in the last 10 minutes of part seven (the same info is present in the Qur'an lecture at the top of the page), and it still needs some editing. Please see [this](/posts/confusion-over-how-to-seek-blessings-for-someone-to-prevent-the-evil-eye) for a clarification on what to say to prevent the evil eye:
+The first ruqyah workshop with Abu Ibraheem. These videos have been kindly recorded and edited by [Ruqya Support](http://ruqyasupport.com/) and are of better quality than the first set that was posted here.
 
-* [Ruqyah Workshop - Part One: Introduction](http://www.youtube.com/watch?v=r2GjxuAaamc)
-* [Ruqyah Workshop - Part Two: Tawheed is the Only Solution](http://www.youtube.com/watch?v=zZUERpYaXJU)
-* [Ruqyah Workshop - Part Three: The World of the Jinn](http://www.youtube.com/watch?v=Wys88S3VQG4)
-* [Ruqyah Workshop - Part Four: Magic and the Magician](http://www.youtube.com/watch?v=RBpy-kfg6Kg)
-* [Ruqyah Workshop - Part Five: Amulets and Talismans](http://www.youtube.com/watch?v=kXm6LFaTKX8&feature=c4-overview&list=UUXwQCBzDSa1wlj36I2x4BFQ)
-* [Ruqyah Workshop - Part Six: The Evil Eye](http://www.youtube.com/watch?v=nDSvkNuh5uo)
-* [Ruqyah Workshop - Part Seven: An Introduction to Ruqyah](http://www.youtube.com/watch?v=xJki92e5ex0)
-* [Ruqyah Workshop - Part Eight: The Raaqi & His Family](http://www.youtube.com/watch?v=Huz_ts9SpcE)
-* [Ruqyah Workshop - Part Nine: The Ruqyah Session](http://www.youtube.com/watch?v=6vJNq_KiHwY)
-* [Ruqyah Workshop - Part Ten: The Conclusion](http://www.youtube.com/watch?v=OmJQw161R1k)
+[Ruqyah Course 1 - Introduction](https://youtu.be/r2GjxuAaamc)
+[Ruqyah Course 2 - Tawheed is the Only Solution](https://youtu.be/zZUERpYaXJU)
+[Ruqyah Course 3 - The World of the Jinn](https://youtu.be/Wys88S3VQG4)
+[Ruqyah Course 4 - Magic and the Magician](https://youtu.be/RBpy-kfg6Kg)
+[Ruqyah Course 5 - Types of Magic + Amulets & Talismans](https://youtu.be/kXm6LFaTKX8)
+[Ruqyah Course 6 - Additional Material : Videos showed and Explained](https://youtu.be/DUUE5vpLbxg)
+[Ruqyah Course 7 - The Evil Eye: Description, Causes and Treatment](https://youtu.be/SUDTKe7Y98A)
+[Ruqyah Course 8 - Introduction to Ruqya](https//youtu.be/yi6bU25SSck)
+[Ruqyah Course 9 - The Raaqi and his Family](https://youtu.be/73fvMNFOXnM)
+[Ruqyah Course 10 - The Ruqya Session](https://youtu.be/pXAVjxwvzrY)
 
 The latest ruqyah workshop from Dubai, with new material. This is from a live stream, so may have some audio/video issues, and it hasn't been edited:
 
