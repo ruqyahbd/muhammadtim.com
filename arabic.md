@@ -4,7 +4,7 @@
 
 <!DOCTYPE HTML>
 <html>
-    <head>
+    <head_merge>
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    </head>
+    </head_merge>
 </html>

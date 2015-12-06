@@ -1,9 +1,9 @@
 [title: A Reference for Sisters Seeking Advice on Ruqyah in the Bradford Area  - muhammadtim.com]:/
 [menu-locgroup: hidden]:/
 
-<head>
+<head_merge>
 	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</head>
+</head_merge>
 
 #A Reference for Sisters Seeking Advice on Ruqyah in the Bradford Area
 
