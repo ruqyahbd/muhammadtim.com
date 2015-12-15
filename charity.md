@@ -33,7 +33,7 @@ Charities are listed by the area that they specialise in. They may also do other
 
 ##Sadaqah Jaariyah (Continous Charity)
 
-* [Seeking Reward Foundation](www.seekingreward.org) - Seeking Reward Foundation works only on projects that will benefit those involved after their death, as *sadaqah jaariyah*. They have a project to build water wells in Africa, amongst other things.
+* [Seeking Reward Foundation](http://www.seekingreward.org) - Seeking Reward Foundation works only on projects that will benefit those involved after their death, as *sadaqah jaariyah*. They have a project to build water wells in Africa, amongst other things.
 
 ##Syria & Refugees
 
