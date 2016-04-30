@@ -29,9 +29,29 @@ The first ruqyah workshop with Abu Ibraheem. These videos have been kindly recor
 [Ruqyah Course 9 - The Raaqi and his Family](https://youtu.be/73fvMNFOXnM)
 [Ruqyah Course 10 - The Ruqya Session](https://youtu.be/pXAVjxwvzrY)
 
-The latest ruqyah workshop from Dubai, with new material. This is from a live stream, so may have some audio/video issues, and it hasn't been edited:
+Another workshop which is based on the same material as the first one with Abu Ibraheem, but also has some updated material, and doesn't follow e. I recommend that you watch them both:
+
+[Second Ruqyah Course 1 - Introduction](https://www.youtube.com/watch?v=X2nUG5eMBus)
+[Second Ruqyah Course 2 - Fundamentals of Islam](https://www.youtube.com/watch?v=YXllGn6umgk)
+[Second Ruqyah Course 3 - Fundamentals of Islam (Continued)](https://www.youtube.com/watch?v=iRgovrl1p7Y)
+[Second Ruqyah Course 4 - The World of the Jinn](https://www.youtube.com/watch?v=yXdIwo9waPE)
+[Second Ruqyah Course 5 - The Abilities of the Jinn](https://www.youtube.com/watch?v=yp_EYvGVv4I)
+[Second Ruqyah Course 6 - Jinn Possession](https://www.youtube.com/watch?v=9grEiQiogyE)
+[Second Ruqyah Course 7 - Magic and Magicians](https://www.youtube.com/watch?v=_1ddVQ8V50I)
+[Second Ruqyah Course 8 - Q & A Session](https://www.youtube.com/watch?v=wp2r94AIBGw)
+[Second Ruqyah Course 9 - Amulets, Talismans and Magical Symbolism](https://www.youtube.com/watch?v=WftquIJGGss)
+Ruqyah Course 10 is either missing, or the numbering is wrong.
+[Second Ruqyah Course 11 - Introduction to Ruqyah](https://www.youtube.com/watch?v=4Ih1m8Y9UCs)
+[Second Ruqyah Course 12 - A Warning to the Ruqaah (with Basak Omar)](https://www.youtube.com/watch?v=c2ptR1xwKhk)
+[Second Ruqyah Course 13 - The Evil Eye](https://www.youtube.com/watch?v=hD1ovXW30_0)
+
+The first ruqyah workshop from Dubai, with new material. This is from a live stream, so may have some audio/video issues, and it hasn't been edited:
 
 * [Ruqyah Workshop Dubai - Part One: Successful Self-Ruqyah](https://www.youtube.com/watch?v=MsdNC76a-Po)
 * [Ruqyah Workshop Dubai - Part Two: Overcoming Obstacles](https://www.youtube.com/watch?v=rXjrSYWLHwQ)
+
+The second ruqyah workshop from Dubai, also with new material. This is from a live stream, so may have some audio/video issues, and it hasn't been edited:
+
+* [Ruqyah Workshop Dubai - Level Two](https://www.youtube.com/watch?v=hjBXsJ11lmI) 
 
 In the future, the idea is to host corrected and edited videos on a dedicated YouTube channel. For now, I post any major issues here.
