@@ -1,8 +1,7 @@
 [title: 7 Day Ruqyah Detox Programme - muhammadtim.com]:/
 [menu: 7 Day Detox]:/
-[path: /7dayrd]:/
+[path: /ruqyah/7-day-detox]:/
 [menu-locgroup: ruqyah]:/
-[alias: /articles/7dayrd]:/
 [order: 3]:/
 
 #7 Day Ruqyah Detox Programme - Shaykh ‘Adil ibn Ṭahir al-Muqbil

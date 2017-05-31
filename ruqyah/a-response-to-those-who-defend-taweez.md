@@ -1,7 +1,6 @@
 [title: A Response to Those Who Defend Ta'weez - muhammadtim.com]:/
 [menu: Ta'weez Response]:/
 [menu-locgroup: ruqyah]:/
-[path: /articles/taweez]:/
 [order: 9]:/
 
 #A Response to Those Who Defend Ta'weez

@@ -7,7 +7,7 @@
 
 Assalāmu 'alaykum warahmatullāhi wa barakātuhu…
 
-This website is in need of development. This was scheduled for the early part of 2014, but due to me being extremely busy, I've had to delay the new website until the end of this year.
+This website is currently under development, with lots of changes planned in the coming days, in shā' Allāh.
 
 Here is a selection of the most popular articles:
 
