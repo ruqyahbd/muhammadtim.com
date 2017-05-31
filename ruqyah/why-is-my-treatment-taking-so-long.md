@@ -1,5 +1,4 @@
-[published: true]:/
-[date: 2015-08-04]:/
+[path: /ruqyah/why-is-my-treatment-taking-so-long]:/
 [title: Why Is My Treatment Taking So Long?]:/
 
 ####Question

@@ -1,6 +1,5 @@
-[published: true]:/
-[date: 2015-08-13]:/
 [title: How Do I Know That My Treatment is Complete?]:/
+[path: /ruqyah/how-do-i-know-that-my-treatment-is-complete]:/
 
 ####Question
 

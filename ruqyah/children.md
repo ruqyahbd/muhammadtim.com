@@ -1,6 +1,5 @@
-[published: true]:/
-[date: 2015-08-13]:/
 [title: Ruqyah for Children]:/
+[path: /ruqyah/children]:/
 
 ####Question
 

@@ -1,6 +1,5 @@
-[published: true]:/
-[date: 2015-08-08]:/
 [title: How Do I Destroy a Ta'weez?]:/
+[path: /ruqyah/how-do-i-destroy-a-taweez]:/
 
 ####Question
 

@@ -1,5 +1,4 @@
-[published: true]:/
-[date: 2015-09-09]:/
+[path: /ruqyah/if-i-only-do-one-thing]:/
 [title: If I only do one thing...]:/
 
 ####Question
