@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>mtim.pages.dev - Mirror of muhammadtim.com</title>
+		
+<!-- analytics -->
+
+<meta name="description" content="Mirror of muhammadtim.com"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://mtim.pages.dev/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mirror of muhammadtim.com" />
+<meta property="og:description" content="mtim.pages.dev - Mirror of muhammadtim.com" />
+<meta property="og:url" content="https://mtim.pages.dev/" />
+<meta property="og:site_name" content="mtim.pages.dev" />
+
+<link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/mobile.css' type='text/css' media='all' />
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Bitter&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Source+Sans+Pro&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel="shortcut icon" href="img/popularowl.png"/> 
+
+<!-- aditional js resources -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+</head>
+
+<body class="home page page-id-4 page-template page-template-page-applist page-template-page-applist-php chrome">
+			
+<div class="menu_container show-for-small">
+<a id="menu-toggle" class="anchor-link" href="#mobile-nav"></a>
+</div>
+		
+<nav id="#mobile-nav" class="nav clearfix show-for-small animated" role="navigation">
+<div class="main-menu">
+<ul>
+<li class="current_page_item">
+<a href="https://mtim.pages.dev/">Home</a>
+</li>
+<li class="page_item page-item-19">
+<a href="https://www.mobilegap.net/about.html">About</a>
+</li>
+</ul>
+</div>
+</nav>
+
+<div id="primary-container">  
+<div class="row">
+<div id="header-container" class="block mobile-four">
+<div class="branding">
+<div class="logo">
+<a href="https://mtim.pages.dev" title="mtim.pages.dev" rel="home">
+<h1 class="logo_text">mtim.pages.dev</h1>
+</a>
+</div>
+<p>Mirror of muhammadtim.com</p>
+</div>
+
+<div class="sep hide-for-small"></div>
+<aside class="sidebar hide-for-small" role="complementary">
+
+<div class="widget widget_text clearfix">
+  <h3 class="widget-title">Navigation</h3>
+  <div class="textwidget">
+    <a href="https://mtim.pages.dev">Home</a><br />
+    <a href="https://ruqyahbd.org/team">About RuqyahBD</a><br />
+    <div class="sep"></div>
+  </div>
+</div>
+<div class="sep clearfix "></div>
+<div class="widget widget_text clearfix">
+<h3 class="widget-title">Follow</h3>
+<div class="textwidget">
+<a href="https://facebook.com/groups/ruqyahbd" target="_blank">RuqyahBD on FB</a><br />
+<a href="https://youtube.com/ruqyahbd" target="_blank">Youtube</a><br />
+</div>
+</div>
+<div class="sep clearfix "></div>				
+</aside>
+</div>

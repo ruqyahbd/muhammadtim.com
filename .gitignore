@@ -1,1 +1,6 @@
-**/*nginx*
+.idea
+.DS_Store
+node_modules
+
+# not versioning static files
+mobilegap.net
